@@ -1,1 +1,1 @@
-# IMU From MMS Sensors, for a Single Trial
+# IMU From MMS Sensors for a Single Trial
